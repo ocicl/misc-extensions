@@ -1,0 +1,10 @@
+* misc-extensions
+
+Some utilities that are used by FSet and also are useful in
+conjunction with FSet.
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/slburson/misc-extensions.git |
+| commit  | 461e9b8                                             |
+| systems | misc-extensions                                     |
+|---------+-----------------------------------------------------|
