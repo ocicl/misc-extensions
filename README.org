@@ -5,6 +5,6 @@ conjunction with FSet.
 
 |---------+-----------------------------------------------------|
 | source  | git:https://github.com/slburson/misc-extensions.git |
-| commit  | fbc4a3f                                             |
+| commit  | 1e89245                                             |
 | systems | misc-extensions                                     |
 |---------+-----------------------------------------------------|
